@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1642152908 source:d:\codes\c-c++\codeblocks projects\practice new things\class collaboration\main.cpp
+	<iostream>
+	"Conversion.h"
+
+1642152476 d:\codes\c-c++\codeblocks projects\practice new things\class collaboration\conversion.h
+	"Currencies.h"
+
+1642152475 d:\codes\c-c++\codeblocks projects\practice new things\class collaboration\currencies.h
+

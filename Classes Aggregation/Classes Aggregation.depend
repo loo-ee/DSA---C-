@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642148571 source:d:\codes\c-c++\codeblocks projects\practice new things\classes aggregation\main.cpp
+	<iostream>
+	"Phone.h"
+
+1642148767 d:\codes\c-c++\codeblocks projects\practice new things\classes aggregation\phone.h
+	"Specs.h"
+	"Unit.h"
+
+1642148713 d:\codes\c-c++\codeblocks projects\practice new things\classes aggregation\specs.h
+
+1642148718 d:\codes\c-c++\codeblocks projects\practice new things\classes aggregation\unit.h
+
